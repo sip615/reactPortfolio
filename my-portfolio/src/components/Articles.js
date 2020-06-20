@@ -7,5 +7,4 @@ function Articles(props) {
 		</div>
 	);
 }
-
 export default Articles;

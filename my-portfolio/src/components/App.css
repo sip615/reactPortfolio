@@ -27,6 +27,25 @@
 .App-link {
   color: #61dafb;
 }
+.item{
+  color: white;
+  background-color: #4e44ba;
+  padding: 5px 20px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.navigation{
+  padding: 8px;
+  background-color: #1371d4f1;
+}
+.card-holder{
+  background-color: black;
+  float: center;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 7px;
+}
+
 
 @keyframes App-logo-spin {
   from {
